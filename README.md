@@ -26,7 +26,7 @@ Run the following commands on your terminal/cmd inside the cloned project folder
 
 ```bash
   docker build . -t <your username>/enklare-technical-assignment
-  docker run -p 49160:8080 -d <your username>/node-web-app
+  docker run -p 49160:8080 -d <your username>/enklare-technical-assignment
   docker ps
 ```
 
